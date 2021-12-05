@@ -39,6 +39,7 @@ namespace Registry
             //нужно будет создать экзепляр класса ConsoleSettings cs = new ConsoleSettings() после чего все настройки будут применены
             ConsoleSettingsMenu.Worker();
 
+
             Console.ReadLine();
 
         }
